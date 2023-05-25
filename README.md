@@ -1,8 +1,8 @@
 # React TodoList 
 
-this is a very simple todo list application written using React.js
+This is a very simple todo list application written using React.js
 
-the `node_modules` have not been uploaded.
+The `node_modules` have not been uploaded. Try it yourself.
 
 <h3>How to run it</h3> 
 
